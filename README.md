@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+# << Personal Portfolio-LandingPage >>
+
+
+<img width="949" alt="Screenshot 2023-08-09 181324" src="https://github.com/Akash02032002/Portfolio-LandingPage/assets/84145371/19150c99-5fa7-4aad-bacd-cc2645e5f0ae">
+
+
+<img width="946" alt="Screenshot 2023-08-09 181339" src="https://github.com/Akash02032002/Portfolio-LandingPage/assets/84145371/a287f2ae-2b22-4e33-981c-980a37eeb9a9">
+
+
+<img width="947" alt="Screenshot 2023-08-09 181356" src="https://github.com/Akash02032002/Portfolio-LandingPage/assets/84145371/b2d94b78-3e84-4905-b601-abd7ea3ababf">
+
+
+<img width="946" alt="Screenshot 2023-08-09 181407" src="https://github.com/Akash02032002/Portfolio-LandingPage/assets/84145371/5ed5a61e-a207-4cc9-acde-67572aed62ef">
+
+
+<img width="949" alt="Screenshot 2023-08-09 181421" src="https://github.com/Akash02032002/Portfolio-LandingPage/assets/84145371/56d131a3-7cff-451a-bf3b-4e94c636b06a">
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
