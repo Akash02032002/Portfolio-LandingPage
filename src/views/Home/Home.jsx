@@ -20,7 +20,7 @@ function Home() {
           <p>Hello, My self Developer</p>
           <h1>Akash</h1>
           <h2>And I'm a  <span className="typing"></span> </h2>
-          <a href="https://drive.google.com/file/d/15_BdKCdfBfHqkVjR7ziEgkbxn8YgKFGR/view" target="_blank" rel="noopener noreferrer">Resume</a>
+          <a href="https://drive.google.com/file/d/16yPf69P4pC_x31pVMWMc8aLt2AIUP0Z5/view" target="_blank" rel="noopener noreferrer">Resume</a>
         </div>
         <div className="right-content" data-aos = "fade-up" data-aos-delay= "2000">
           <img src={img8} alt="" />
