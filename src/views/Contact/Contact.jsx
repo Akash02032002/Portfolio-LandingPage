@@ -10,7 +10,7 @@ function Contact() {
       <div className="boxes">
         <ContactBox animation="fade-right" class= "fa-brands fa-twitter" name="Twitter" link="https://twitter.com/Akashverse_0"/>
         <ContactBox animation="fade-up" class= "fab fa-github" name="Github" link="https://github.com/Akash02032002"/>
-        <ContactBox animation="fade-left" class= "fab fa-linkedin" name="Linkedin" link="https://www.linkedin.com/in/akashverse0/"/>
+        <ContactBox animation="fade-left" class= "fab fa-linkedin" name="Linkedin" link="https://www.linkedin.com/in/akashverse01/"/>
       </div>
 
     </div>
