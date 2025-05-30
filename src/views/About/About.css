@@ -15,18 +15,20 @@
 .about .left-content {
     width: 50%;
 }
-.about .left-content img{
+.about .left-content img {
     display: flex;
     margin: auto;
     width: 40%;
-    height: 80%;
-    border-radius: 10%;
-    position:relative;
+    height: auto;
+    border-radius: 5%;
+    position: relative;
     animation-duration: 1s;
     animation-name: animation1;
     animation-iteration-count: infinite;
     color: var(--aqua);
+    object-fit: cover;
 }
+
 
 .about .right-content {
     width: 40%;

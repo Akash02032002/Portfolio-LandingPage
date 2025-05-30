@@ -14,6 +14,7 @@ function ServiceBox(props) {
   return (
     <>
     <div data-aos = {props.animation}>
+    {/* <div data-aos = {props.animation}> */}
        <div className="card">
           <div class="box">
             <div className="icon"><i class={props.icon}></i></div>

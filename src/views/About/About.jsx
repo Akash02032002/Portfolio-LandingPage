@@ -24,14 +24,12 @@ function About() {
           <div className="right-content">
             <h2>Developer Akash</h2>
             <p>
-              Hello there, Myself Akash Kumar and I am a Computer Science and
-              Engineering graduate from Loknayak Jai Prakash Institute of
-              Technology which is situated in Chapra, Bihar. My cumulative cgpa
-              is 8.00. I reside at village in a Nalanda District, Biharsharif. I
-              am Enthusiastic And Determinant Men. I enjoy solving technical
-              problem, blogging researching and learning new technologies. I
-              enjoy meeting people and working with them in a team environment.
-             
+              "Hi, I'm Akash Kumar, a seasoned full stack web developer with
+              expertise in designing and developing scalable, efficient, and
+              visually appealing web applications. With proficiency in both
+              front-end and back-end technologies, I deliver comprehensive
+              solutions that meet clients' needs. Let's build your digital
+              presence together!"
             </p>
             <a
               href="https://www.linkedin.com/in/akashverse01/"

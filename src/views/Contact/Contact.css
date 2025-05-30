@@ -1,28 +1,89 @@
-.contact{
-    min-height: auto;
-    padding: 6rem 3rem;
-    font-family: "Readex-Pro", sans-serif;
-    background-color: transparent;
-}
-.contact h1{
-    color: var(--white);
-    text-align: center;
-    padding-bottom: 2rem;
-}
-.contact .boxes{
-    display: flex;
-}
-@media only screen and (max-width: 1000px) {
-    .contact .boxes{
-        display: flex;
-        justify-content: space-around;
-        flex-wrap: wrap;
-    }
+.contact {
+  padding: 6rem 2rem;
+  background-color: var(--dark-bg, #0a0a0a);
+  font-family: "Readex-Pro", sans-serif;
 }
 
-@media only screen and (max-width: 780px) {
-    .contact .boxes{
-        display: block;
-    }
+.contact h1 {
+  text-align: center;
+  color: var(--white, #fff);
+  margin-bottom: 3rem;
+  font-size: 2.5rem;
+}
 
+.contact-sections {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.boxes {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  flex: 1;
+  min-width: 250px;
+  align-items: center;
+}
+
+.contact-form {
+  flex: 1;
+  min-width: 300px;
+  max-width: 500px;
+  margin: auto;
+  background-color: var(--black-high, #1e1e1e);
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 12px rgba(0, 255, 255, 0.1);
+}
+
+.contact-form form {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-form label {
+  color: var(--white, #fff);
+  margin-bottom: 0.3rem;
+  font-size: 1rem;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 0.75rem;
+  margin-bottom: 1.2rem;
+  border: 1px solid #ccc;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  background-color: #f9f9f9;
+}
+
+.contact-form input[type="submit"] {
+  background-color: var(--aqua, #00ffff);
+  color: #000;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.contact-form input[type="submit"]:hover {
+  background-color: #00cccc;
+}
+
+@media screen and (max-width: 768px) {
+  .contact-sections {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .boxes {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .contact-form {
+    width: 90%;
+  }
 }
