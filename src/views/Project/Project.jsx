@@ -21,6 +21,8 @@ import img12 from "../../images/AlarmClock.png";
 import img13 from "../../images/portfolio1.png";
 import img14 from "../../images/FileDownloader.png";
 import img15 from "../../images/TexttoSpeech.png";
+import img16 from "../../images/A1.jpg";
+import img17 from "../../images/F1.jpg";
 
 function Project() {
   useEffect(() => {
@@ -34,6 +36,16 @@ function Project() {
       <div data-aos="fade-up">
         <div className="boxes">
           <div className="carousel owl-carousel">
+            <ProjectBox
+              title="AstronomyShop-eCom-DevOps"
+              img={img17}
+              link="https://github.com/Akash02032002/ultimate-devops-project-demo.git"
+            />
+              <ProjectBox
+              title="DevOps-Two-Tier-Flask-Project"
+              img={img16}
+              link="https://github.com/Akash02032002/DevOps-Two-Tier-Flask-Project.git"
+            />
             <ProjectBox
               title="Movievercel"
               img={img1}

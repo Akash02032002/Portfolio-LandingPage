@@ -17,10 +17,10 @@ function Home() {
     <div id='Home' className='home'>
       <div className="home-flex">
         <div className="left-content" data-aos = "fade-down" data-aos-delay= "2000">
-          <p>Hello, My self Developer</p>
+          <p>Hello, My self DevOps</p>
           <h1>Akash</h1>
           <h2>And I'm a  <span className="typing"></span> </h2>
-          <a href="https://drive.google.com/file/d/1lqDUz0DoJdYdYj-ntrsGzW_A-Z-MidUg/view" target="_blank" rel="noopener noreferrer">Resume</a>
+          <a href="https://drive.google.com/file/d/1SbAZCUO01b78nFggdmEpEgf9JDHyDYMj/view" target="_blank" rel="noopener noreferrer">Resume</a>
         </div>
         <div className="right-content" data-aos = "fade-up" data-aos-delay= "2000">
           <img src={img8} alt="" />

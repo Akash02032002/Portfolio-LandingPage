@@ -22,12 +22,12 @@ function About() {
             <img src={img9} alt="" />
           </div>
           <div className="right-content">
-            <h2>Developer Akash</h2>
+            <h2>DevOps Akash</h2>
             <p>
-              "Hi, I'm Akash Kumar, a seasoned full stack web developer with
+              "Hi, I'm Akash Kumar, a DevOps Engineer and a seasoned full stack web developer with
               expertise in designing and developing scalable, efficient, and
-              visually appealing web applications. With proficiency in both
-              front-end and back-end technologies, I deliver comprehensive
+              visually appealing web applications. With proficiency in
+              front-end, back-end, CI/CD Pipelines, Containerization, Cloud(AWS, AZURE), and Monitoring technologies, I deliver comprehensive
               solutions that meet clients' needs. Let's build your digital
               presence together!"
             </p>
